@@ -1,0 +1,38 @@
+site_name: AppWork Brukerveiledning
+site_description: Brukerdokumentasjon for AppWork
+site_url: http://127.0.0.1:8000
+
+theme:
+  name: material
+  language: "nb"
+  palette:
+    - scheme: default
+      primary: teal
+      accent: cyan
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+
+nav:
+  - Hjem: index.md
+  - Kom i gang:
+      - Logg inn: logg-inn.md
+      - Første oppsett (arbeidsplass): workplace.md
+  - Daglig bruk:
+      - Legg til skift: shifts.md
+      - Kalender og oversikt: calendar.md
+      - Importer Excel-fil: import-excel.md
+      - Lønn og timer: salary.md
+      - Slett registreringer: delete-entries.md
+  - Hjelp:
+      - Vanlige problemer: troubleshooting.md
