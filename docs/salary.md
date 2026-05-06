@@ -1,8 +1,10 @@
 # Lønn og timer
-
+![Lønn knap](images/salary-button.png)
 ## Hva viser lønnssiden?
 
 Lønnssiden gir en detaljert oversikt over arbeidstimer og beregnet lønn for valgt arbeidsplass, måned og år.
+
+
 
 Du kan bruke siden til å:
 
