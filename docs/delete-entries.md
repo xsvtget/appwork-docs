@@ -15,7 +15,7 @@ Dette gjør det lettere å rydde opp i feilregistreringer og holde oversikten ko
 
 ## Slett registreringer for valgt dager
 
-Bruk denne funksjonen når du bare vil fjerne registreringer fra bestemt datoer.
+Bruk denne funksjonen når du bare vil fjerne registreringer fra bestemte datoer.
 
 ### Slik gjør du det
 
