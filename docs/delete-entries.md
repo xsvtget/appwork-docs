@@ -13,16 +13,16 @@ Dette gjør det lettere å rydde opp i feilregistreringer og holde oversikten ko
 
 ---
 
-## Slett registreringer for valgt dag
+## Slett registreringer for valgt dager
 
-Bruk denne funksjonen når du bare vil fjerne registreringer fra én bestemt dato.
+Bruk denne funksjonen når du bare vil fjerne registreringer fra bestemt datoer.
 
 ### Slik gjør du det
 
-1. Velg en dag i kalenderen
-2. Åpne slett-funksjonen
-3. Velg **Slett valgt dag**
-4. Bekreft handlingen
+1. Tryk på **Delete shifts** helt nede
+2. Tryk på **Select days**
+3. Velg dagene i kalender
+4. Trykk på **Delete selected days**
 
 Etterpå oppdateres:
 
